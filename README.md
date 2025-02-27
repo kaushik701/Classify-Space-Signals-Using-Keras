@@ -7,6 +7,7 @@ The dataset is organized as follows:
 Training set: 3,200 images
 Validation set: 800 images
 Image dimensions: 64x128 pixels (grayscale)
+The image files are compressed for ease to upload
 4 signal classes
 ![image](https://github.com/user-attachments/assets/221b8992-678f-4583-9cf4-0ef22737e8ae)
 
