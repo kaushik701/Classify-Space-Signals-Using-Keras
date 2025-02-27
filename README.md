@@ -8,6 +8,8 @@ Training set: 3,200 images
 Validation set: 800 images
 Image dimensions: 64x128 pixels (grayscale)
 4 signal classes
+![image](https://github.com/user-attachments/assets/221b8992-678f-4583-9cf4-0ef22737e8ae)
+
 
 # Requirements
 tensorflow
@@ -47,6 +49,8 @@ Real-time loss plotting during training
 Model checkpoint saving
 
 Confusion matrix visualization
+![image](https://github.com/user-attachments/assets/9f8a3c80-afe5-4054-9064-9dd1e5562f5a)
+
 
 Classification metrics reporting
 
@@ -63,6 +67,8 @@ Evaluate model performance using confusion matrix and classification report
 
 # Performance Visualization
 The code includes:
+![image](https://github.com/user-attachments/assets/a50eee14-d812-495d-acd3-a591b017906b)
+
 
 Training/validation loss curves
 
